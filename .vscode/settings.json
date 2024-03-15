@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2deb1445-63cd-4a40-af97-e7b19c137fa2/resourceGroups/Ammar4210206_group/providers/Microsoft.Web/sites/Ammar4210206",
+    "appService.deploySubpath": "."
+}
